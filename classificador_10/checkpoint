@@ -1,0 +1,2 @@
+model_checkpoint_path: "classificador"
+all_model_checkpoint_paths: "classificador"
